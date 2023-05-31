@@ -1,0 +1,113 @@
+footer = []
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+[[main]]
+name = "Executive body"
+url = "/about"
+weight = 2
+[[main]]
+hasChildren = true
+name = "Know Your Kidney"
+url = "/know-your-kidney"
+weight = 3
+[[main]]
+name = "Kidney Basic"
+parent = "Know Your Kidney"
+url = "/kidney-basic"
+weight = 1
+[[main]]
+name = "Chronic Kidney Disease - CKD"
+parent = "Know Your Kidney"
+url = "/ckd"
+weight = 2
+[[main]]
+name = "Acute Kidney Injury - AKI"
+parent = "Know Your Kidney"
+url = "/aki"
+weight = 3
+[[main]]
+name = "Dialysis"
+parent = "Know Your Kidney"
+url = "/dialysis"
+weight = 4
+[[main]]
+name = "Renal Transplantation"
+parent = "Know Your Kidney"
+url = "/renal-transplantation"
+weight = 5
+[[main]]
+name = "Urology"
+parent = "Know Your Kidney"
+url = "/urology"
+weight = 6
+[[main]]
+name = "Paediatric Nephrology"
+parent = "Know Your Kidney"
+url = "/paediatric-nephrology"
+weight = 7
+[[main]]
+name = "Renal Diet"
+parent = "Know Your Kidney"
+url = "/renal-diet"
+weight = 8
+[[main]]
+name = "Kidney Disease And Pregnancy"
+parent = "Know Your Kidney"
+url = "/kidney-disease-and-pregnancy"
+weight = 9
+[[main]]
+name = "Diabetes"
+parent = "Know Your Kidney"
+url = "/diabetes"
+weight = 10
+[[main]]
+name = "Others"
+parent = "Know Your Kidney"
+url = "/others"
+weight = 11
+[[main]]
+name = "Frequently Asked Question - FAQ"
+parent = "Know Your Kidney"
+url = "/faq"
+weight = 12
+[[main]]
+hasChildren = true
+name = "Emergency Contacts"
+url = "/emergency-contacts"
+weight = 5
+[[main]]
+name = "Nephrology Doctors"
+parent = "Emergency Contacts"
+url = "/emergency-contacts/nephrology-doctors"
+weight = 1
+[[main]]
+name = "Urology Doctors"
+parent = "Emergency Contacts"
+url = "/emergency-contacts/urology-doctors"
+weight = 2
+[[main]]
+name = "Vascular Surgeon Doctors"
+parent = "Emergency Contacts"
+url = "/emergency-contacts/vascular-surgeons"
+weight = 3
+[[main]]
+name = "Dialysis Centers"
+parent = "Emergency Contacts"
+url = "/emergency-contacts/dialysis-centers"
+weight = 4
+[[main]]
+name = "Hospitals"
+parent = "Emergency Contacts"
+url = "/emergency-contacts/hospitals"
+weight = 5
+[[main]]
+name = "Blood Banks"
+parent = "Emergency Contacts"
+url = "/emergency-contacts/blood-banks"
+weight = 6
+[[main]]
+name = "Contact Us"
+url = "/contact"
+weight = 6

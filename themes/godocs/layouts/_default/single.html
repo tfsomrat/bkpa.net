@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+<section class="py-5">
+  <div class="container shadow section-sm rounded px-4 px-lg-5">
+    <h2 class="mb-4 font-weight-medium">{{ .Title }}</h2>
+    {{ with .Params.author }}
+    <strong class="d-flex align-items-center mb-3">
+      <i class="fas fa-user mr-2"></i>
+      <a href="{{ `author/` | relLangURL }}{{ . | urlize }}/">{{.}}</a>
+    </strong>
+    {{ end }}
+    <!-- image -->
+    {{ with .Params.image }}
+    <img
+      src="{{ . | relURL}}"
+      alt="post-image"
+      class="img-fluid w-100 mb-4 rounded-lg"
+    />
+    {{ end }}
+    <div class="content {{if eq .Section `posts`}}lock-content{{end}}">
+      {{.Content}}
+    </div>
+  </div>
+</section>
+
+{{ end }}

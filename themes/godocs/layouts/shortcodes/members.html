@@ -1,0 +1,29 @@
+<div class="row mt-3 masonry-wrapper">
+  {{ range where site.RegularPages "Section" "author" }}
+  <div class="col-lg-4 mb-4">
+    <div class="card">
+      <div class="card-body">
+        <a href="{{.RelPermalink}}">
+          {{ if .Params.image }}
+          <img
+            class="rounded w-100 img-fluid mb-4"
+            src="{{ .Params.image | relURL }}"
+          />
+          {{else if .Params.Email}}
+          <img
+            class="rounded w-100 img-fluid mb-4"
+            src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=256&pg&d=identicon"
+          />
+          {{ end }}</a
+        >
+        <h4 class="card-title h5 mb-2">
+          <a class="stretched-link" href="{{.RelPermalink}}">{{.Title}}</a>
+        </h4>
+        {{ with .Params.bio }}
+        <p class="card-text small">{{. | markdownify}}</p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  {{ end }}
+</div>

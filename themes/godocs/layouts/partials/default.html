@@ -1,0 +1,26 @@
+{{ "<!-- details page -->" | safeHTML }}
+<section class="pt-5">
+  <div class="container shadow section-sm rounded">
+    {{ $currentNode := . }}
+    <div class="row px-4">
+      <div class="col-12">
+        <h2 class="mb-4 font-weight-medium">{{ .Title }}</h2>
+      </div>
+      {{range .Data.Pages}}
+      <div class="col-lg-4 col-sm-6">
+        <article class="card">
+          {{ with .Params.image }}
+          <img src="{{. | relURL}}" alt="{{.Title}}" class="card-img-top">
+          {{ end }}
+          <div class="card-body">
+            <h3><a href="{{.RelPermalink}}">{{.Title}}</a></h3>
+            <p class="card-text mb-4">{{.Summary}}</p>
+            <a href="{{.Permalink}}" class="btn btn-primary">Read More</a>
+          </div>
+        </article>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ "<!-- /details page -->" | safeHTML }}

@@ -1,0 +1,91 @@
+{{ define "main" }} {{ $notice:= .Params.notice.enable }}
+
+<section class="hero-slider">
+  {{ range .Params.banner }}
+  <!-- slider item -->
+  <div
+    class="hero-slider-item bg-cover hero-section {{if eq .color "white"}}banner-white{{end}} {{if $notice}}has-notice{{end}}"
+    style="background-image: url('{{ .image | absURL }}');">
+    <div class="container">
+      <h1 class="mb-4 banner-content" data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".1">
+        {{ .title | markdownify }}
+      </h1>
+      <div class="banner-content" data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".3">
+        {{ .content | markdownify }}
+      </div>
+      <!-- {{ with .button }} {{ if .enable }}
+          <a
+            href="{{ .link | absLangURL }}"
+            class="btn btn-outline-primary"
+            data-duration-in=".5"
+            data-animation-in="fadeInUp"
+            data-delay-in=".4"
+            >{{ .label }}</a
+          >
+          {{ end }} {{ end }} -->
+    </div>
+  </div>
+  {{ end }}
+</section>
+
+<!-- notice -->
+{{ with .Params.notice }} {{ if .enable }}
+<section class="pull-top">
+  <div class="container">
+    <div class="notice bg-white">
+      {{ with .title}}
+      <h2 class="mb-3 h4">{{ . | markdownify }}</h2>
+      {{ end }} {{ with .content }}
+      <p class="content mb-0">{{ . | markdownify }}</p>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }} {{ end }}
+<!-- /notice -->
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      {{ range $i, $e:= where site.Pages "Type" "topic" }}
+      <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+        <div class="card h-100 text-center topic-card">
+          <div class="card-body py-xl-5 py-4 px-3">
+            {{ with .Params.icon }}
+            <div class="card-icon mb-4">
+              <i class="{{ . }}"></i>
+            </div>
+            {{ end }}
+            <h3 class="card-title h5">{{.Title | markdownify}}</h3>
+            <a href="{{ .RelPermalink }}" class="stretched-link"></a>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+        <div class="card h-100 text-center topic-card">
+          <div class="card-body py-xl-5 py-4 px-3">
+            <div class="card-icon mb-4">
+              <i class="fas fa-users"></i>
+            </div>
+            <h3 class="card-title h5">Executive Body</h3>
+            <a href="{{ `/about/` | relURL }}" class="stretched-link"></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+        <div class="card h-100 text-center topic-card active">
+          <div class="card-body py-xl-5 py-4 px-3">
+            <div class="card-icon mb-4">
+              <i class="fas fa-question-circle"></i>
+            </div>
+            <h3 class="card-title h5">Frequently Asked Question</h3>
+            <a href="{{ `/faq/` | relURL }}" class="stretched-link"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

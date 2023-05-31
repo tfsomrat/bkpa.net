@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <h1 class="text-center mb-5">{{.Title}}</h1>
+    <div class="table-responsive">
+      <table class="table table-hover">
+        <thead>
+          <tr>
+            <th scope="col">Location</th>
+            <th scope="col">Name</th>
+            <th scope="col">Specialist</th>
+            <th scope="col">Contact Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ range sort .Params.contact_list "location" "asc" }}
+          <tr>
+            <th scope="row">{{ .location | markdownify }}</th>
+            <td>{{ .name | markdownify }}</td>
+            <td>{{ .specialist | markdownify }}</td>
+            <td>{{ .contact_details | markdownify }}</td>
+          </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+{{ end }}

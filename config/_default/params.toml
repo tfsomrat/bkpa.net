@@ -1,0 +1,17 @@
+favicon = "images/favicon.png"
+logo = "/images/logo.png"
+logo_white = "/images/logo-white.png"
+logo_width = "180"
+sticky_menu = false
+author = "BKPA"
+copyright = "Developed by [Mehedi](https://mehedisharif.com/)"
+description = "Bangladesh Kidney Patient Association (BKPA)"
+
+[preloader]
+enable = true
+preloader = ""
+
+# [[social]]
+# icon = "fab fa-facebook"
+# link = "https://www.facebook.com/groups/694761940670179"
+# title = "facebook"

@@ -1,0 +1,65 @@
+{{ define "main" }}
+
+<div class="section">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-8 mb-4 mb-md-0">
+        {{ if .Params.image }}
+        <img
+          class="img-fluid w-100 rounded"
+          loading="lazy"
+          src="{{.Params.image | relURL}}"
+          alt="{{ .Title }}"
+        />
+        {{else if .Params.Email}}
+        <img
+          class="img-fluid w-100 rounded"
+          loading="lazy"
+          src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=320&pg&d=identicon"
+        />
+        {{ end }}
+      </div>
+      <div class="col-md-8 text-center text-md-left">
+        <h2 class="mb-2">{{.Title}}</h2>
+        <ul class="list-unstyled">
+          {{ with .Params.bio}}
+          <li class="mb-1">
+            <strong>{{. | markdownify}}</strong>
+          </li>
+          {{ end }} {{ with .Params.phone }}
+          <li class="mb-1">
+            <strong>Phone: </strong>
+            <a href="tel:{{. | safeURL}}">{{.}}</a>
+          </li>
+          {{ end }} {{ with .Params.email }}
+          <li class="mb-1">
+            <strong>Email: </strong>
+            <a href="mailto:{{. | safeURL}}"> {{.}} </a>
+          </li>
+          {{ end }} {{ with .Params.address }}
+          <li class="mb-1">
+            <strong>Address: </strong>
+            <span> {{. | markdownify}} </span>
+          </li>
+          {{ end }}
+        </ul>
+        <div class="content">{{ .Content }}</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ if gt (len (where site.RegularPages "Params.author" .Title)) 0}}
+<section class="section-sm" id="post">
+  <div class="container">
+    <h2 class="mb-4">Posted By Me</h2>
+    <div class="row">
+      {{ range where site.RegularPages "Params.author" .Title }}
+      <div class="col-lg-4 col-sm-6 mb-4">{{ .Render "post" }}</div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

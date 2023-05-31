@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container shadow section-sm rounded">
+    <div class="row px-4">
+      <div class="col-12">
+        <h2 class="pb-3 border-bottom mb-5 font-weight-medium"><strong>Topic:</strong> {{ .Title }}</h2>
+      </div>
+      {{range .Data.Pages}}
+      <div class="col-lg-4 col-sm-6 mb-4">
+        {{ .Render "post" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

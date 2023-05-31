@@ -1,0 +1,65 @@
+{{ "<!-- navigation -->" | safeHTML }}
+<header class="navigation {{if site.Params.sticky_menu}}sticky-top top-0{{end}}">
+  <div class="container">
+    <!-- navbar -->
+    <nav class="navbar p-0 navbar-expand-lg navbar-light bg-transparent">
+      <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
+        {{ if .Site.Params.logo }}
+        <img loading="lazy" width="{{ site.Params.logo_width}}" class="img-fluid" src="{{ .Site.Params.logo | absURL }}"
+          alt="{{ .Site.Title }}">
+        {{ else }}
+        {{ .Site.Title }}
+        {{ end }}</a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="fas fa-bars h4 text-dark"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+
+        <!-- search box -->
+        <form class="search-wrapper my-3" action="{{`search` | relLangURL}}">
+          <input id="search-by" name="s" type="search" class="form-control"
+            placeholder="{{ i18n `search_placeholder`}}">
+          <button class="border-0 bg-white search-btn" type="submit"><i class="search-icon fas fa-search"></i></button>
+        </form>
+
+        <ul class="navbar-nav mx-auto align-items-center">
+          {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+              {{ .Name }}
+            </a>
+            <div class="dropdown-menu">
+              {{ range .Children }}
+              <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name | markdownify }}</a>
+              {{ end }}
+            </div>
+          </li>
+          {{ else }}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name | markdownify }}</a>
+          </li>
+          {{ end }}
+          {{ end }}
+
+          <!-- topics -->
+          <!-- {{ range (where site.Pages "Type" "topic") }}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">{{ .Params.url | title }}</a>
+            <div class="dropdown-menu">
+              {{ with site.GetPage (add "posts/" (string .Params.url)) }}
+              {{ range first 5 .RegularPages}}
+              <a class="dropdown-item" href="{{ .RelPermalink }}">{{ .Title }}</a>
+              {{ end }}
+              {{ end }}
+              <a class="dropdown-item" href="{{.Params.url | relURL}}/">Show All {{.Params.url | title}} Post</a>
+            </div>
+          </li>
+          {{ end }} -->
+        </ul>
+      </div>
+    </nav>
+  </div>
+</header>
+{{ "<!-- /navigation -->" | safeHTML }}

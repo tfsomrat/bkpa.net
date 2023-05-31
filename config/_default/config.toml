@@ -1,0 +1,13 @@
+baseURL = "https://bkpa.net/"
+disableLanguages = []
+googleAnalytics = ""
+summaryLeangth = 10
+theme = "godocs"
+title = "BKPA"
+
+[permalinks]
+posts = "/:filename/"
+[markup.goldmark.renderer]
+unsafe = true
+[outputs]
+home = ["HTML", "JSON"]

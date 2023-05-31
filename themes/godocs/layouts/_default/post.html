@@ -1,0 +1,16 @@
+<article class="card h-100">
+  {{ with .Params.image }}
+  <img src="{{. | relURL}}" alt="post-image" class="card-img-top post-image">
+  {{ end }}
+  <div class="card-body">
+    {{ with .Params.author }}
+    <strong class="d-flex align-items-center mb-3">
+      <i class="fas fa-user mr-2"></i>
+      <a href="{{ `author/` | relLangURL }}{{ . | urlize }}/">{{.}}</a>
+    </strong>
+    {{ end }}
+    <h3 class="h5 mb-3"><a class="stretched-link" href="{{.RelPermalink}}">{{.Title}}</a></h3>
+    <p class="card-text mb-4">{{.Summary | truncate 100}} </p>
+    <!-- <a href="{{.Permalink}}" class="btn btn-primary">Read More</a> -->
+  </div>
+</article>

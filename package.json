@@ -1,0 +1,17 @@
+{
+  "name": "bkpa.net-master",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server\"",
+    "build": "tinacms build && hugo",
+    "audit": "tinacms audit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.11",
+    "tinacms": "^1.5.4"
+  }
+}

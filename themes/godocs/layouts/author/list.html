@@ -1,0 +1,31 @@
+{{define "main"}}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      {{ range where site.RegularPages "Section" "author" }}
+      <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="card h-100">
+          {{ if .Params.image }}
+          <img class="card-img-top" loading="lazy" src="{{.Params.image | relURL}}" alt="{{ .Title }}">
+          {{else if .Params.Email}}
+          <img class="card-img-top" loading="lazy"
+            src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=320&pg&d=identicon">
+          {{ end }}
+          <div class="card-body">
+            <h3 class="mb-2 h5"><a href="{{ .Permalink }}" class="post-title">{{.Title}}</a></h3>
+            <p class="mb-3">{{.Params.Description | markdownify}}</p>
+            <ul class="list-inline social-icons-outline">
+              {{ range .Params.social }}
+              <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{.icon }}"></i></a></li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

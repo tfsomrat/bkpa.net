@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <h1 class="text-center mb-5">{{.Title}}</h1>
+    <div class="row justify-content-center">
+      {{ range .Params.contact_items }}
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <div class="card card-body text-center py-5 h-100">
+          {{ with .icon }}
+          <i class="{{.}} h1 mb-3 text-primary"></i>
+          {{ end }}
+          <h4>{{ .name | markdownify }}</h4>
+          {{ .content | markdownify }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}
