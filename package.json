@@ -1,5 +1,5 @@
 {
-  "name": "bkpa.net-master",
+  "name": "bkpa.net",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -9,9 +9,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "dependencies": {
-    "@tinacms/cli": "^1.5.11",
-    "tinacms": "^1.5.4"
+    "@tinacms/cli": "^1.5.14",
+    "tinacms": "^1.5.6"
   }
 }

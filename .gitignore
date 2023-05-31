@@ -4,6 +4,7 @@ Desktop.ini
 resources
 .hugo_build.lock
 .env
+public
 
 # Thumbnail cache files
 ._*
