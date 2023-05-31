@@ -17,9 +17,13 @@ import vascularSurgeons from "./collections/vascularSurgeons";
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
 
 export default defineConfig({
-  branch,
-  clientId: null, // Get this from tina.io
-  token: null, // Get this from tina.io
+  clientId: process.env.TINA_CLIENT_ID,
+  branch:
+    process.env.TINA_BRANCH || // custom branch env override
+    process.env.VERCEL_GIT_COMMIT_REF || // Vercel branch env
+    process.env.HEAD || // Netlify branch env
+    "main", // default branch
+  token: process.env.TINA_TOKEN,
   client: { skip: true },
   build: {
     outputFolder: "admin",
@@ -116,7 +120,7 @@ export default defineConfig({
                 label: "Weight",
                 type: "number",
               },
-            ]
+            ],
           },
         ],
       },
