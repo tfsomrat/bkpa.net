@@ -24,7 +24,7 @@ concurrency:
 # Default to bash
 defaults:
   run:
-    shell: bash
+    shell: default
 
 # Environment variables available to all jobs and steps in this workflow
 env:
@@ -62,11 +62,11 @@ jobs:
       - name: Install npm dependencies
         working-directory: /home/runner/work/bkpa-community/bkpa.net
         run: |
-          bash -c "npm install"
+          npm install
 
       - name: Publish to GitHub Pages
         run: |
-          bash -c "npm run build"
+          npm run build
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
