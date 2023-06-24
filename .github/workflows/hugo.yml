@@ -43,11 +43,6 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
 
-      - name: Path check
-        run: |
-          echo $PATH
-          ls
-
       - name: Install Hugo
         run: |
           curl -LO "https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_extended_${{ env.HUGO_VERSION }}_Linux-64bit.tar.gz"
@@ -63,6 +58,11 @@ jobs:
           echo "export PATH=$PATH:/usr/local/go/bin" >> $GITHUB_ENV
           rm go${{ env.GO_VERSION }}.linux-amd64.tar.gz
           go version
+
+      - name: Path check
+        run: |
+          pwd
+          ls
 
       - name: Install npm dependencies
         run: npm install
