@@ -63,7 +63,6 @@ jobs:
         working-directory: /usr/bin/bash/bkpa-community/bkpa.net
         run: |
           pwd
-          npm install
 
       - name: Publish to GitHub Pages
         run: |
