@@ -61,11 +61,11 @@ jobs:
 
       - name: Install npm dependencies
         run: |
-          npm install @tinacms/cli tinacms
+          npm install tinacms
 
       - name: Publish to GitHub Pages
         run: |
-          tinacms build && hugo
+          npx tinacms build && hugo
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
