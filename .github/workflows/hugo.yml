@@ -62,7 +62,7 @@ jobs:
       - name: Install npm dependencies
         working-directory: /home/runner/work/bkpa-community/bkpa.net
         run: |
-          pwd
+          npm install
 
       - name: Publish to GitHub Pages
         run: |
