@@ -56,11 +56,10 @@ jobs:
       - name: Publish to GitHub Pages
         run: npm run build
 
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          name: Website
-          path: public
+          path: ./public
 
   # Deployment job
   deploy:
