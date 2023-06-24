@@ -58,9 +58,10 @@ jobs:
           echo "export PATH=$PATH:/usr/local/go/bin" >> $GITHUB_ENV
           rm go${{ env.GO_VERSION }}.linux-amd64.tar.gz
           go version
+          pwd
+          ls
 
       - name: Install npm dependencies
-        working-directory: /home/runner/work/bkpa-community/bkpa.net
         run: npm install
 
       - name: Publish to GitHub Pages
