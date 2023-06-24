@@ -60,7 +60,7 @@ jobs:
           go version
 
       - name: Install npm dependencies
-        working-directory: /usr/local/bkpa-community/bkpa.net
+        working-directory: /usr/bin/bash/bkpa-community/bkpa.net
         run: |
           pwd
           npm install
