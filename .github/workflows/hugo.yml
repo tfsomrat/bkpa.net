@@ -62,11 +62,11 @@ jobs:
       - name: Install npm dependencies
         working-directory: /home/runner/work/bkpa-community/bkpa.net
         run: |
-          npm install
+          bash -c "npm install"
 
       - name: Publish to GitHub Pages
         run: |
-          npm run build
+          bash -c "npm run build"
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
