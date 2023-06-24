@@ -58,7 +58,7 @@ jobs:
           echo "export PATH=$PATH:/usr/local/go/bin" >> $GITHUB_ENV
           rm go${{ env.GO_VERSION }}.linux-amd64.tar.gz
           go version
-          cd ~
+          cd $GITHUB_WORKSPACE
           pwd
           ls
 
