@@ -60,10 +60,12 @@ jobs:
           go version
 
       - name: Install npm dependencies
+        working-directory: /home/runner/work/bkpa-community/bkpa.net/package.json
         run: |
           npm install
 
       - name: Publish to GitHub Pages
+        working-directory: /home/runner/work/bkpa-community/bkpa.net/package.json
         run: |
           npm run build
 
