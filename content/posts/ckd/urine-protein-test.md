@@ -1,10 +1,10 @@
 ---
-date : 2021-07-29T18:00:00Z
-description : ""
-image : "/images/fb_img_1627574921667.jpg"
-title : "Urine Protein Test."
-
+date: '2021-07-29T18:00:00.000Z'
+description: ''
+image: /images/fb_img_1627574921667.jpg
+title: Urine Protein Test.
 ---
+
 ### Urine এ প্রোটিন পাস করছে কিনা তা বেশ কয়েকটি টেস্টের মাধ্যমে জানা যায়। সেগুলো হলঃ
 
 ★ Urine routine examination বা Urine r/e
