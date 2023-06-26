@@ -1,0 +1,162 @@
+fragment HomepageParts on Homepage {
+  banner {
+    __typename
+    title
+    image
+    color
+    content
+  }
+  notice {
+    __typename
+    enable
+    title
+    content
+  }
+  body
+}
+
+fragment AuthorParts on Author {
+  draft
+  title
+  image
+  bio
+  phone
+  email
+  address
+  body
+}
+
+fragment PostsParts on Posts {
+  draft
+  title
+  date
+  description
+  image
+  body
+}
+
+fragment Emergency_contactsParts on Emergency_contacts {
+  draft
+  title
+  body
+}
+
+fragment AboutParts on About {
+  draft
+  title
+  image
+  description
+  body
+}
+
+fragment BloodBanksParts on BloodBanks {
+  draft
+  title
+  description
+  layout
+  contact_list {
+    __typename
+    name
+    specialist
+    location
+    contact_details
+  }
+  body
+}
+
+fragment DialysisCentersParts on DialysisCenters {
+  draft
+  title
+  description
+  layout
+  contact_list {
+    __typename
+    name
+    specialist
+    location
+    contact_details
+  }
+  body
+}
+
+fragment HospitalsParts on Hospitals {
+  draft
+  title
+  description
+  layout
+  contact_list {
+    __typename
+    name
+    specialist
+    location
+    contact_details
+  }
+  body
+}
+
+fragment NephrologyDoctorsParts on NephrologyDoctors {
+  draft
+  title
+  description
+  layout
+  contact_list {
+    __typename
+    name
+    specialist
+    location
+    contact_details
+  }
+  body
+}
+
+fragment UrologyDoctorsParts on UrologyDoctors {
+  draft
+  title
+  description
+  layout
+  contact_list {
+    __typename
+    name
+    specialist
+    location
+    contact_details
+  }
+  body
+}
+
+fragment VascularSurgeonsParts on VascularSurgeons {
+  draft
+  title
+  description
+  layout
+  contact_list {
+    __typename
+    name
+    specialist
+    location
+    contact_details
+  }
+  body
+}
+
+fragment FaqParts on Faq {
+  draft
+  title
+  layout
+  description
+  body
+}
+
+fragment ContactParts on Contact {
+  draft
+  title
+  description
+  layout
+  contact_items {
+    __typename
+    name
+    icon
+    content
+  }
+  body
+}
