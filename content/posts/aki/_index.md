@@ -1,11 +1,11 @@
 ---
-title: "Acute Kidney Injury - AKI"
-url: "aki"
-date: 2021-02-29T11:02:05+06:00
-icon: "fas fa-bacteria" # fontawesome icon : https://fontawesome.com/icons
-description: ""
-# type dont remove or customize
-type : "topic"
+title: Acute Kidney Injury - AKI
+url: aki
+date: '2021-03-01T05:02:05.000Z'
+icon: fas fa-bacteria
+description: ''
+type: topic
 draft: false
 weight: 3
 ---
+
