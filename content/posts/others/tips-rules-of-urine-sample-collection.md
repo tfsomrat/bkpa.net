@@ -1,10 +1,10 @@
 ---
-date: 2021-08-03T06:00:00.000Z
+date: '2021-08-03T06:00:00.000Z'
 description: ''
 image: /images/images-3.jfif
 title: 'Tips: Rules of Urine Sample Collection- ইউরিন স্যাম্পল কালেকশনের নিয়ম '
-_template: post
 ---
+
 
 
 ### **Topics: Rules of Urine Sample Collection- ইউরিন স্যাম্পল কালেকশনের নিয়ম**
