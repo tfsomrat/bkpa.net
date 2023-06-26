@@ -1,3 +1,5 @@
+import members from "../shortcodes/members";
+
 const about = {
   format: "md",
   label: "About",
@@ -40,7 +42,9 @@ const about = {
       label: "Body of Document",
       description: "This is the markdown body",
       isBody: true,
+      templates: [members],
     },
   ],
-}
-export default about
+};
+
+export default about;

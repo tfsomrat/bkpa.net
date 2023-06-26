@@ -6,4 +6,4 @@ description: This is meta description.
 
 ## Executive Body
 
-{{\< members >}}
+{{< members >}}

@@ -1,4 +1,4 @@
-import commonFields from "../fields/common"
+import commonFields from "../fields/common";
 
 const nephrologyDoctors = {
   format: "md",
@@ -25,5 +25,6 @@ const nephrologyDoctors = {
       isBody: true,
     },
   ],
-}
-export default nephrologyDoctors
+};
+
+export default nephrologyDoctors;

@@ -27,5 +27,5 @@ const emergencyContacts = {
       isBody: true,
     },
   ],
-}
-export default emergencyContacts
+};
+export default emergencyContacts;
