@@ -1,10 +1,10 @@
 ---
-date: 2022-02-11T18:00:00.000Z
+date: '2022-02-11T18:00:00.000Z'
 description: ''
 image: /images/organ-donation-lou.jpg
 title: Organ Donor Fitness Test- ডোনার এর ফিটনেস চেক করার জন্য যেসব test করতে হয়
-_template: post
 ---
+
 
 
 **Topic: Organ Donor Fitness Test- ডোনার এর fitness চেক করার জন্য যেসব test করতে হয়**
