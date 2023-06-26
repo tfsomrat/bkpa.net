@@ -1,10 +1,10 @@
 ---
-date: 2022-03-01T18:00:00.000Z
+date: '2022-03-01T18:00:00.000Z'
 description: ''
 image: /images/274993939_1948044642069117_7133725529219164788_n.jpg
 title: Kidney Disease (Child) - শিশুদের কিডনি রোগ
-_template: post
 ---
+
 
 
 **শিশুদের কিডনি রোগ"**  
