@@ -1,10 +1,10 @@
 ---
-date: 2022-02-13T11:00:00.000Z
+date: '2022-02-13T11:00:00.000Z'
 description: ''
 image: /images/imgid1134903.jpg
 title: Important Tests for Dialysis Patient - ডায়ালাইসিস রুগিদের জন্য প্রয়োজনীয় টেস্ট
-_template: post
 ---
+
 
 
 ### Topics; Important Tests for Dialysis Patient - ডায়ালাইসিস রুগিদের জন্য প্রয়োজনীয় টেস্ট
