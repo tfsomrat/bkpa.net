@@ -1,12 +1,12 @@
 ---
-date: 2022-02-05T18:00:00.000Z
+date: '2022-02-05T18:00:00.000Z'
 description: ''
 image: /images/images-3-1.png
 title: >-
   How long will i have to take medicine after transplant .কিডনি প্রতিস্থাপনের
   পরে আমাকে কতদিন ওষুধ খেতে হবে ?
-_template: post
 ---
+
 
 
 ### **কিডনি প্রতিস্থাপনের পরে আমাকে কি ওষুধ খেতে হবে,এটা কতদিন?**
