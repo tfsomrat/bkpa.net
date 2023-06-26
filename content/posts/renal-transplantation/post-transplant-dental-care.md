@@ -1,10 +1,10 @@
 ---
-date: 2022-01-31T18:00:00.000Z
+date: '2022-01-31T18:00:00.000Z'
 description: ''
 image: /images/80679261_1207675776082170_4420387840056098816_n.jpg
 title: Post Transplant Dental Care
-_template: post
 ---
+
 
 
 ### Post Transplant Dental Care
