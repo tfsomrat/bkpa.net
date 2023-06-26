@@ -1,10 +1,10 @@
 ---
-date: 2022-02-13T18:00:00.000Z
+date: '2022-02-13T18:00:00.000Z'
 description: ''
 image: /images/laws-of-organ-donation-in-india-960x720.jpg
 title: Transplant Law & Legal Aspects
-_template: post
 ---
+
 
 
 **মানবদেহে অঙ্গ-প্রত্যঙ্গ সংযোজন (সংশোধন) আইন- ২০১৮**
