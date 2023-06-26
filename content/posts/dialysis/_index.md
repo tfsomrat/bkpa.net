@@ -1,11 +1,11 @@
 ---
-title: "Dialysis"
-url: "dialysis"
-date: 2021-05-29T11:02:05+06:00
-icon: "fas fa-medkit" # fontawesome icon : https://fontawesome.com/icons
-description: ""
-# type dont remove or customize
-type : "topic"
+title: Dialysis
+url: dialysis
+date: '2021-05-29T05:02:05.000Z'
+icon: fas fa-medkit
+description: ''
+type: topic
 draft: false
 weight: 4
 ---
+
