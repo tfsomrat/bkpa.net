@@ -1,10 +1,10 @@
 ---
-date: 2022-02-07T18:00:00.000Z
+date: '2022-02-07T18:00:00.000Z'
 description: ''
 image: /images/images-18.jpeg
 title: Salt Intake - খাবার লবন সোডিয়াম ক্লোরাইড (NaCl)
-_template: post
 ---
+
 
 
 খাবার লবন সোডিয়াম ক্লোরাইড (NaCl)
