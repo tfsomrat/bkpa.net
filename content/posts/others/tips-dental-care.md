@@ -1,10 +1,10 @@
 ---
-date: 2021-08-01T06:00:00.000Z
+date: '2021-08-01T06:00:00.000Z'
 description: ''
 image: /images/80679261_1207675776082170_4420387840056098816_n.jpg
 title: 'Tips: Dental Care '
-_template: post
 ---
+
 
 
 ### **Tips: Dental Care**
