@@ -1,11 +1,11 @@
 ---
-date: 2021-08-01T11:00:00.000Z
+date: '2021-08-01T11:00:00.000Z'
 description: ''
 draft: true
 image: /images/images.jfif
 title: Acute Kidney Diseases
-_template: post
 ---
+
 
 ### **Acute Kidney Diseases**
 
