@@ -5,7 +5,13 @@ const members = {
     start: "{{<",
     end: ">}}",
   },
-  fields: [],
+  fields: [
+    {
+      name: "members",
+      label: "members",
+      type: "string",
+    },
+  ],
 };
 
 export default members;

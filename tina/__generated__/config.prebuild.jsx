@@ -9,7 +9,13 @@ var members = {
     start: "{{<",
     end: ">}}"
   },
-  fields: []
+  fields: [
+    {
+      name: "members",
+      label: "members",
+      type: "string"
+    }
+  ]
 };
 var members_default = members;
 
@@ -643,6 +649,14 @@ var config_default = defineConfig({
       mediaRoot: "images",
       publicFolder: "static"
     }
+  },
+  search: {
+    tina: {
+      indexerToken: "process.env.TINA_SEARCH_TOKEN",
+      stopwordLanguages: ["eng"]
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100
   },
   schema: {
     collections: [

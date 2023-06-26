@@ -583,7 +583,9 @@ export type About = Node & Document & {
   _values: Scalars['JSON'];
 };
 
-export type AboutBodyMembersFilter = {};
+export type AboutBodyMembersFilter = {
+  members?: InputMaybe<StringFilter>;
+};
 
 export type AboutBodyFilter = {
   members?: InputMaybe<AboutBodyMembersFilter>;

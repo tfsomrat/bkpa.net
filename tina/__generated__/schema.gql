@@ -312,7 +312,9 @@ type About implements Node & Document {
   _values: JSON!
 }
 
-input AboutBodyMembersFilter
+input AboutBodyMembersFilter {
+  members: StringFilter
+}
 
 input AboutBodyFilter {
   members: AboutBodyMembersFilter
