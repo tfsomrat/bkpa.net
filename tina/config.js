@@ -21,7 +21,6 @@ export default defineConfig({
     process.env.HEAD || // Netlify branch env
     "main", // default branch
   token: process.env.TINA_TOKEN,
-  client: { skip: true },
   build: {
     outputFolder: "admin",
     publicFolder: "static",
