@@ -1,12 +1,12 @@
 ---
-date: 2022-06-14T18:00:00.000Z
+date: '2022-06-14T18:00:00.000Z'
 description: ''
 image: /images/20220615_103924.jpg
 title: >-
   দীর্ঘতম ডায়ালাইসিস রোগী(Guinness World Record Holder) এবং ট্রান্সপ্লান্ট
   গ্রহীতা/ Longest Survival Dialysis Patient and Transplant Recipient.
-_template: post
 ---
+
 
 
 দীর্ঘতম ডায়ালাইসিস রোগী(Guinness World Record Holder) এবং ট্রান্সপ্লান্ট গ্রহীতা।
