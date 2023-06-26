@@ -1,11 +1,11 @@
 ---
-date : 2021-06-30T19:00:00Z
-description : ""
-draft : true
-image : "/images/fb_img_1625947088700.jpg"
-title : "Urine R/E বা Urine C/S এর জন্য স্যাম্পল কালেকশনের সঠিক নিয়ম"
-
+date: '2021-06-30T19:00:00.000Z'
+description: ''
+draft: true
+image: /images/fb_img_1625947088700.jpg
+title: Urine R/E বা Urine C/S এর জন্য স্যাম্পল কালেকশনের সঠিক নিয়ম
 ---
+
 ### Urine R/E বা Urine C/S এর জন্য স্যাম্পল কালেকশনের সঠিক নিয়ম
 
 ### 
