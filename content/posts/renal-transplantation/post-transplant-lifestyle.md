@@ -1,10 +1,10 @@
 ---
-date: 2022-02-02T18:00:00.000Z
+date: '2022-02-02T18:00:00.000Z'
 description: ''
 image: /images/images-38.jpeg
 title: Post Transplant Lifestyle- (ট্রান্সপ্লান্টের পর জীবন ব্যবস্থা)
-_template: post
 ---
+
 
 
 ### **Post Renal Transplant/ট্রান্সপ্লান্টের পর ইন্সট্রাকশন্স বা জীবনযাপনের ক্ষেত্রে কি কি নিয়ম মেনে চলবো ?**
