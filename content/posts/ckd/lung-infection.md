@@ -1,10 +1,10 @@
 ---
-date : 2022-02-16T18:00:00Z
-description : ""
-image : "/images/fb_img_1627498236742.jpg"
-title : "Lung infection (pneumonia) -  নিউমোনিয়া"
-
+date: '2022-02-16T18:00:00.000Z'
+description: ''
+image: /images/fb_img_1627498236742.jpg
+title: Lung infection (pneumonia) -  নিউমোনিয়া
 ---
+
 ### নিউমোনিয়া/Lung infection
 
 কিডনি রুগি ও ট্রান্সপ্লান্ট পার্সনদের জন্য নিউমোনিয়া থেকে সাবধানতা বিশেষভাবে জরুরি। কারন তাদের রোগ প্রতিরোধ ক্ষমতা বা immunity অন্যান্য মানুষের চেয়ে কম থাকে।

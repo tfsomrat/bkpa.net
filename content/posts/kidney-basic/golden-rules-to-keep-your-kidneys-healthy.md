@@ -1,10 +1,10 @@
 ---
-date: 2022-01-17T18:00:00.000Z
+date: '2022-01-17T18:00:00.000Z'
 description: ''
 image: /images/images-12.jpg
 title: 'Golden Rules To Keep Your Kidneys Healthy/ কিডনী সুস্থ রাখার ১০ টি উপায়। '
-_template: post
 ---
+
 
 
 **কিডনী সুস্থ রাখার ১০ টি উপায় -**

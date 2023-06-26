@@ -1,10 +1,10 @@
 ---
-date: 2022-02-17T18:00:00.000Z
+date: '2022-02-17T18:00:00.000Z'
 description: ''
 image: /images/screenshot_20210817-004758_facebook.jpg
 title: What is Kidney Transplantation ? কিডনি প্রতিস্থাপন কি এবং কিভাবে কে করে?
-_template: post
 ---
+
 
 
 **প্রশ্ন :-কিডনি প্রতিস্থাপন কি?**

@@ -1,10 +1,10 @@
 ---
-date: 2022-02-01T18:00:00.000Z
+date: '2022-02-01T18:00:00.000Z'
 description: ''
 image: /images/images-44.jpeg
 title: Kidney Diseases & Eye (চোখের/দৃষ্টিশক্তির সমস্যা)
-_template: post
 ---
+
 
 
 ### Kidney Diseases & Eye (চোখের/দৃষ্টিশক্তির সমস্যা)

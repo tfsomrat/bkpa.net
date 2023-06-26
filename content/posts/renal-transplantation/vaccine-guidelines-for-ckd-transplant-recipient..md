@@ -1,12 +1,12 @@
 ---
-date: 2022-02-03T18:00:00.000Z
+date: '2022-02-03T18:00:00.000Z'
 description: ''
 image: /images/fb_img_1627974251176-1.jpg
 title: >-
   Vaccine Guidelines For CKD/TRANSPLANT Recipient. (ট্রান্সপ্লান্ট পরবর্তী
   ভ্যাকসিন গাইডলাইন।)
-_template: post
 ---
+
 
 
 ### CKD/কিডনি রোগী বা Post Transplant/ট্রান্সপ্লান্ট পরবর্তী ভ্যাকসিন গাইডলাইন।

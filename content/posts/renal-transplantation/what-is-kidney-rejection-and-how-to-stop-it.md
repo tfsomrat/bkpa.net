@@ -1,12 +1,12 @@
 ---
-date: 2022-01-29T18:00:00.000Z
+date: '2022-01-29T18:00:00.000Z'
 description: ''
 image: /images/images-41.jpeg
 title: >-
   What is Kidney Rejection and How to stop it? কিডনি রিজেকশন কি এবং রিজেকশন
   ঠেকানোর জন্য ডাক্তার কি কি চিকিৎসা পদ্ধতি ব্যবহার করে?
-_template: post
 ---
+
 
 
 ### ট্রান্সপ্লান্ট পরবর্তী Rejection কি এবং rejection ঠেকানোর জন্য ডাক্তার কি কি চিকিৎসা পদ্ধতি ব্যবহার করে?

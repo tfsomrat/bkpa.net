@@ -1,10 +1,10 @@
 ---
-date: 2022-02-19T06:00:00.000Z
+date: '2022-02-19T06:00:00.000Z'
 description: ''
 image: /images/screenshot_20210817-142445_facebook.jpg
 title: 'All About Dialysis - ডায়ালাইসিসের এর আদ্যপান্ত '
-_template: post
 ---
+
 
 
 ### **ডায়ালাইসিস এর আদ্যপান্ত** (All About Dialysis)

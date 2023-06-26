@@ -1,10 +1,10 @@
 ---
-date: 2021-08-23T05:00:00.000Z
+date: '2021-08-23T05:00:00.000Z'
 description: ''
 image: /images/72576093_1139940886188993_8571505480038350848_n.jpg
 title: 'Acidity '
-_template: post
 ---
+
 
 
 ### Acidity

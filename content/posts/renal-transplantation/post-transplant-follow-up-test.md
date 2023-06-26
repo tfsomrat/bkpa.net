@@ -1,12 +1,12 @@
 ---
-date: 2022-02-08T18:00:00.000Z
+date: '2022-02-08T18:00:00.000Z'
 description: ''
 image: /images/images-42.jpeg
 title: >-
   Post Transplant Follow-up Test - কিডনি প্রতিস্থাপন করার পর যেসকল টেস্ট নিয়মিত
   করতে হয়
-_template: post
 ---
+
 
 
 ### Kidney Transplant এর পর যেসব Test করতে হবে

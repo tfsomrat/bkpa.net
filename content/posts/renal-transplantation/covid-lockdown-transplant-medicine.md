@@ -1,10 +1,10 @@
 ---
-date: 2022-02-04T18:00:00.000Z
+date: '2022-02-04T18:00:00.000Z'
 description: ''
 image: /images/fb_img_1626068470668.jpg
 title: Covid Lockdown &Transplant Medicine ( কোভিড লকডাউনে মেডিসিন প্রাপ্তি )
-_template: post
 ---
+
 
 
 🚩 Lockdown/Transplant Medicine 🚩

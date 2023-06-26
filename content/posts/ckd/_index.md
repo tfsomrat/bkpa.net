@@ -1,10 +1,10 @@
 ---
 title: Chronic Kidney Disease - CKD
 url: ckd
-date: 2021-01-01T00:00:00+06:00
+date: '2020-12-31T18:00:00.000Z'
 icon: fas fa-disease
 description: ''
 type: topic
 weight: 1
-
 ---
+

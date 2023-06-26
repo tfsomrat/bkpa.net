@@ -1,10 +1,10 @@
 ---
-date: 2022-02-09T18:00:00.000Z
+date: '2022-02-09T18:00:00.000Z'
 description: ''
 image: /images/biology.jpg
 title: HLA & Tissue Typing
-_template: post
 ---
+
 
 
 **HLA & Tissue Typing**

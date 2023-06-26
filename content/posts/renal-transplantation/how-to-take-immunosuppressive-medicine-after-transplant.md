@@ -1,12 +1,12 @@
 ---
-date: 2022-02-06T18:00:00.000Z
+date: '2022-02-06T18:00:00.000Z'
 description: ''
 image: /images/immunosuppressant-drugs.jpg
 title: >-
   How to take Immunosuppressive medicine after Transplant - ( কিডনি প্রতিস্থাপন
   করার পর ইমুনুসাপ্রেসিভ মেডিসিন খাওয়ার নিয়ম)
-_template: post
 ---
+
 
 
 ### **Transplant এর পর medicine এর নিয়ম**

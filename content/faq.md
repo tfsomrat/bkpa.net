@@ -1,10 +1,10 @@
 ---
-title: "Frequently Asked Question"
+title: Frequently Asked Question
 draft: false
 layout: faq
-# description
-description: "This is meta description"
+description: This is meta description
 ---
+
 
 
 {{< faq "Will updates also be free?" >}}

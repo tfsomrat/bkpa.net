@@ -1,10 +1,10 @@
 ---
-date: 2022-02-11T18:00:00.000Z
+date: '2022-02-11T18:00:00.000Z'
 description: ''
 image: /images/fb_img_1625116465103.jpg
 title: Uric Acid - ইউরিক অ্যাসিড
-_template: post
 ---
+
 
 
 ইউরিক অ্যাসিড (Uric Acid)

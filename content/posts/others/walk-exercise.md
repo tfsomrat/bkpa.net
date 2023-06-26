@@ -1,10 +1,10 @@
 ---
-date: 2022-03-06T18:00:00.000Z
+date: '2022-03-06T18:00:00.000Z'
 description: ''
 image: /images/images-23.jpeg
 title: Walk/Exercise
-_template: post
 ---
+
 
 
 ### Walk/Exercise

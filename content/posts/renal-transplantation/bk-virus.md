@@ -1,10 +1,10 @@
 ---
-date: 2021-11-29T18:00:00.000Z
+date: '2021-11-29T18:00:00.000Z'
 description: ''
 image: /images/_.webp
 title: 'BK Virus ( বিকে ভাইরাস) '
-_template: post
 ---
+
 
 
 ## **BK Virus ( বিকে ভাইরাস)**

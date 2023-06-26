@@ -1,10 +1,10 @@
 ---
-date: 2022-02-09T18:00:00.000Z
+date: '2022-02-09T18:00:00.000Z'
 description: ''
 image: /images/phos.jpg
 title: Phosphorus or Phosphate -ফসফরাস বা ফসফেট
-_template: post
 ---
+
 
 
 ফসফরাস বা ফসফেট- Phosphorus or Phosphate

@@ -1,12 +1,12 @@
 ---
 title: Creatinine Unit Conversion System.
-date: 2021-06-16T18:00:00.000+00:00
+date: '2021-06-16T18:00:00.000Z'
 description: ''
-image: "/images/fb_img_1625153200187.jpg"
+image: /images/fb_img_1625153200187.jpg
 author: Shohag
 draft: true
-
 ---
+
 ### Creatinine Unit Conversion System.
 
 🎗 এটি ছোট একটা বিষয় কিন্তু গুরুত্বপূর্ণ 🎗

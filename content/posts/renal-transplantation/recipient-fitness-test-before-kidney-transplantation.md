@@ -1,10 +1,10 @@
 ---
-date: 2022-02-10T18:00:00.000Z
+date: '2022-02-10T18:00:00.000Z'
 description: ''
 image: /images/photo-by-horia-valan-cc-lisence.jpg
 title: 'Recipient Fitness Test before Kidney Transplantation - '
-_template: post
 ---
+
 
 
 **Pre-transplant Recipient Evaluation & Management**

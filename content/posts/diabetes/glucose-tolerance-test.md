@@ -1,10 +1,10 @@
 ---
-date: 2022-03-28T18:00:00.000Z
+date: '2022-03-28T18:00:00.000Z'
 description: ''
 image: /images/received_680171969725180.jpeg
 title: Glucose Tolerance Test
-_template: post
 ---
+
 
 
 #### **ডায়বেটিস নির্ণয়ের সবচেয়ে নির্ভরযোগ্য টেস্ট হচ্ছে Oral Glucose Tolerance Test বা OGTT....**

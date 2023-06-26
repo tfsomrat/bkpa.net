@@ -1,10 +1,10 @@
 ---
-date: 2022-02-17T18:00:00.000Z
+date: '2022-02-17T18:00:00.000Z'
 description: ''
 image: /images/images-45.jpeg
 title: Kidney Basics/কিডনি সম্পর্কে প্রাথমিক ধারণা।
-_template: post
 ---
+
 
 
 ### **Kidney Basics/কিডনি সম্পর্কে প্রাথমিক ধারণা।**
