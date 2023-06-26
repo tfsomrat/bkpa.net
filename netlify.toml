@@ -1,15 +1,15 @@
 [build]
-  publish = "public"
-  command = "yarn build"
-  
+publish = "public"
+command = "yarn build"
+
 [build.environment]
-  HUGO_VERSION = "0.112.5"
+HUGO_VERSION = "0.114.1"
 
 [[headers]]
-  for = "/*" # This defines which paths this specific [[headers]] block will cover.
+for = "/*" # This defines which paths this specific [[headers]] block will cover.
 
 [headers.values]
-  X-Frame-Options = "DENY"
-  X-XSS-Protection = "1; mode=block"
-  Referrer-Policy = "same-origin"
-  Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+X-Frame-Options = "DENY"
+X-XSS-Protection = "1; mode=block"
+Referrer-Policy = "same-origin"
+Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
