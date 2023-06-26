@@ -1,10 +1,10 @@
 ---
-date : 2022-02-15T18:00:00Z
-description : ""
-image : "/images/images-33.jpeg"
-title : "Viral Infection"
-
+date: '2022-02-15T18:00:00.000Z'
+description: ''
+image: /images/images-33.jpeg
+title: Viral Infection
 ---
+
 ### Viral Infection
 
 যেকোন ইনফেকশন ক্ষতিকর। কিন্তু ৪টি ভাইরাস আছে যেগুলো কিডনি রুগি এবং ট্রান্সপ্লান্টদের জন্য বেশি ক্ষতিকর এবং তাদের এই ইনফেকশনের রিস্ক ও অন্যান্যদের তুলনায় বেশি।
