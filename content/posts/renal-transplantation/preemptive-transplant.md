@@ -1,10 +1,10 @@
 ---
-date: 2022-01-28T18:00:00.000Z
+date: '2022-01-28T18:00:00.000Z'
 description: ''
 image: /images/images-36.jpeg
 title: Preemptive Transplant (ডায়ালাইসিস শুরুর পূর্বে ট্রান্সপ্লান্ট করা)
-_template: post
 ---
+
 
 
 ### **Preemptive renal Transplant :-**
