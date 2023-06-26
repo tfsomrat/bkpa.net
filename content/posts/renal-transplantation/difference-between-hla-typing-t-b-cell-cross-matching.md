@@ -1,12 +1,12 @@
 ---
-date: 2022-02-09T06:00:00.000Z
+date: '2022-02-09T06:00:00.000Z'
 description: ''
 image: /images/275298789_713040903042438_2042953487665449593_n.jpg
 title: >-
   Difference between HLA Typing & T-B cell Cross matching (এইচএলএ টাইপিং এবং
   টি-বি সেল ক্রস ম্যাচিংয়ের মধ্যে পার্থক্য)
-_template: post
 ---
+
 
 
 ### Difference between HLA Typing & T-B cell Cross matching (এইচএলএ টাইপিং এবং টি-বি সেল ক্রস ম্যাচিংয়ের মধ্যে পার্থক্য)
