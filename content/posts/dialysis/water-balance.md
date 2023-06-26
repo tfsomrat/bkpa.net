@@ -1,10 +1,10 @@
 ---
-date: 2022-02-16T18:00:00.000Z
+date: '2022-02-16T18:00:00.000Z'
 description: ''
 image: /images/images-47.jpeg
 title: Water Balance in dialysis - কিডনি রোগি ও ডায়ালাইসিস রোগিদের জন্য পানির পরিমান
-_template: post
 ---
+
 
 
 ### Water Balance in dialysis
