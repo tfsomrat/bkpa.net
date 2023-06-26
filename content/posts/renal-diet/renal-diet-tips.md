@@ -1,10 +1,10 @@
 ---
-date: 2022-02-17T18:00:00.000Z
+date: '2022-02-17T18:00:00.000Z'
 description: ''
 image: /images/screenshot_20210726-134112_facebook.jpg
 title: Renal Diet Tips / রেনাল ডায়েট টিপস
-_template: post
 ---
+
 
 
 ### **Renal Diet Tips / রেনাল ডায়েট টিপস**
