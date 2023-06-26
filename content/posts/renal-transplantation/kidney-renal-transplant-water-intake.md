@@ -1,12 +1,12 @@
 ---
-date: 2022-02-07T18:00:00.000Z
+date: '2022-02-07T18:00:00.000Z'
 description: ''
 image: /images/received_214282324045039.jpeg
 title: >-
   Kidney Renal Transplant Water Intake (ট্রান্সপ্লান্টের পর পানি পান করার
   পরিমান)
-_template: post
 ---
+
 
 
 ### **ট্রান্সপ্লান্টের পর পানি পান করার পরিমান।**
