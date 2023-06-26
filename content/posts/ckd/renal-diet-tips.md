@@ -1,11 +1,11 @@
 ---
-date : 2021-07-15T21:00:00Z
-description : ""
-draft : true
-image : "/images/screenshot_20210726-134112_facebook.jpg"
-title : "Renal Diet Tips"
-
+date: '2021-07-15T21:00:00.000Z'
+description: ''
+draft: true
+image: /images/screenshot_20210726-134112_facebook.jpg
+title: Renal Diet Tips
 ---
+
 ### রেনাল ডায়েটের বিশেষত্ব
 
 ★পানি+অন্যান্য লিকুইড কম
