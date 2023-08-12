@@ -12,7 +12,6 @@ banner:
       Association, formed in April 2015 to build community engagement for the
       prevention of Kidney Disease through social awareness, sharing
       information, volunteerism and advocacy.
-    button: ''
   - title: আপনি জানেন কি ?
     image: /images/banner-bkpa.jpeg
     color: white
