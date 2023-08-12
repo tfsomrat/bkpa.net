@@ -1,11 +1,9 @@
 ---
-date: '2022-03-06T18:00:00.000Z'
+date: 2022-03-06T18:00:00.000Z
 description: ''
 image: /images/fb_img_1625153200187.jpg
 title: Creatinine Unit Conversion System.
 ---
-
-
 
 ### Creatinine Unit Conversion System.
 
@@ -17,8 +15,8 @@ title: Creatinine Unit Conversion System.
 
 সুতরাং কারো creatinine 710 Umol/L মানে হলো আপনার creatinine 7.1 না বরং 88.4 দ্বারা ভাগ করলে creatinine দাড়ায় 8.03 mg/dl.
 
-নিচের সাইটটা ব্যবহার করতে পারেন Creatinine Unit টেস্ট করার জন্য  
-[http://www.scymed.com/en/smnxps/psxdf212_c.htm](http://www.scymed.com/en/smnxps/psxdf212_c.htm "http://www.scymed.com/en/smnxps/psxdf212_c.htm")
+নিচের সাইটটা ব্যবহার করতে পারেন Creatinine Unit টেস্ট করার জন্য\
+[http://www.scymed.com/en/smnxps/psxdf212\_c.htm](http://www.scymed.com/en/smnxps/psxdf212_c.htm "http://www.scymed.com/en/smnxps/psxdf212_c.htm")
 
 ধন্যবাদ.
 
@@ -26,8 +24,8 @@ title: Creatinine Unit Conversion System.
 
 ##### **Caution:**
 
-> ###### BKPA is a voluntary social organization whose mission is to raise awareness, promote and share knowledge about kidney disease. BKPA does not provide any kind of medical advice directly or indirectly through social media or any other platform which should only be done by the nephrologist or registered doctor. This is prohibited to take any kind of medical treatment based on the information provided by BKPA.
+> BKPA is a voluntary social organization whose mission is to raise awareness, promote and share knowledge about kidney disease. BKPA does not provide any kind of medical advice directly or indirectly through social media or any other platform which should only be done by the nephrologist or registered doctor. This is prohibited to take any kind of medical treatment based on the information provided by BKPA.
 
 ##### **সতর্কতাঃ**
 
-> ###### বিকেপিএ একটি স্বেচ্ছাসেবী সামাজিক সংগঠন যার লক্ষ্য কিডনি রোগ সম্পর্কে সামাজিক সচেতনতা বৃদ্ধি,প্রচার এবং সতর্ক করা। বিকেপিএতে সামাজিক মাধ্যম অথবা অন্য কোন মাধ্যম ব্যবহার করে বা সরাসরি প্রত্যক্ষ / পরোক্ষভাবে কোনো প্রকার চিকিৎসা সংক্রান্ত সেবা বা পরামর্শ প্রদান করা হয় না যা শুধুমাত্র আপনার নেফ্রোলজিস্ট এবং রেজিস্টা
+> বিকেপিএ একটি স্বেচ্ছাসেবী সামাজিক সংগঠন যার লক্ষ্য কিডনি রোগ সম্পর্কে সামাজিক সচেতনতা বৃদ্ধি,প্রচার এবং সতর্ক করা। বিকেপিএতে সামাজিক মাধ্যম অথবা অন্য কোন মাধ্যম ব্যবহার করে বা সরাসরি প্রত্যক্ষ / পরোক্ষভাবে কোনো প্রকার চিকিৎসা সংক্রান্ত সেবা বা পরামর্শ প্রদান করা হয় না যা শুধুমাত্র আপনার নেফ্রোলজিস্ট এবং রেজিস্টা
