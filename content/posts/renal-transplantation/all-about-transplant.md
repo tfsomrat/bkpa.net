@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: All About Transplant (কিডনী ট্রান্সপ্লান্ট/প্রতিস্থাপনের আদ্যোপান্ত)
 date: 2022-02-16T18:00:00.000Z
 description: ''
