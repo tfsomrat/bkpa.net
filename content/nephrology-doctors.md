@@ -58,11 +58,7 @@ contact_list:
   - name: Dr. Ilangovan Veerappan ( ইল্যাংগোভান ভেরাপ্পান)
     specialist: Nephrology
     location: Dhaka
-    contact_details: >-
-      Evercare Hospital. Bashundhara. Baridhara. Appointment No.
-      10678,09666710678,
-
-      (02) 55037242
+    contact_details: Will Inform You Soon.
   - name: DR. MD. ZAYEED AHSAN
     specialist: Nephrology
     location: 'Dhaka '
