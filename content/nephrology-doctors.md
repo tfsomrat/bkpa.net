@@ -75,9 +75,9 @@ contact_list:
     contact_details: >
       Comfort Diagnostic Center, Dhanmondi Address: 167/B, Green Road,
       Dhanmondi, Dhaka - 1205 Visiting Hour: 6:30 pm to 10:30 pm (chamber
-      practice: Saturday, Monday, Wednesday, Thursday...Only Sunday is for
-      online video consultation) Appointment: +8801747392273( call time 4pm to
-      5pm)
+      practice date: Saturday, Monday, Wednesday and Thursday...Only Sunday is
+      for online video consultation) Appointment: +8801747392273( call time date
+      for appointment:- Sunday, Tuesday, Wednesday and Thursday from 4pm to 5pm)
   - name: 'Dr. Nurul Islam (ডক্টর নুরুল ইসলাম) '
     specialist: Nephrology
     location: Dhaka
