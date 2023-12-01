@@ -38,9 +38,7 @@ contact_list:
   - name: Dr. Rezwanur Rahman
     specialist: Nephrology
     location: Dhaka
-    contact_details: >-
-      Center for Kidney Disease & Urology Hospital. Appointment - 01777685821-22
-      , 02-48114570, 02-48114430
+    contact_details: "চেম্বারঃ পপুলার কনসাল্টেশন সেন্টার- ৩ \n(ভবন-৬), রুমঃ ৩০৭, ধানমন্ডি, ঢাকা।\n রোগী দেখার সময়: বিকেল ৪টা থেকে রাত ৮টা (শনিবার থেকে বৃহস্পতিবার)\n\U0001F4DE চেম্বার এপয়েন্টমেন্ট এর জন্য কল করুন ০১৮৪৭৫৩৯৩৬৬, \n০১৭৫৪০২৭৫৫১, ০৯৬৬৬৭৮৭৮০১"
   - name: Dr. Mohammad Hanif
     specialist: ''
     location: Pediatric Nephrology
