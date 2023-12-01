@@ -72,10 +72,11 @@ contact_list:
   - name: Dr. Kazi Shahnoor Alam (ডক্টর কাজী শাহনূর আলম)
     specialist: Nephrology
     location: 'Dhaka '
-    contact_details: >-
+    contact_details: >
       Comfort Diagnostic Center, Dhanmondi Address: 167/B, Green Road,
-      Dhanmondi, Dhaka - 1205 Visiting Hour: 7pm to 10pm (Closed: Tuesday &
-      Friday) Appointment: +8801731956033
+      Dhanmondi, Dhaka - 1205 Visiting Hour: 6:30 pm to 10:30 pm (Saturday,
+      Monday, Wednesday, Thursday.....Sunday(online, video consultation)
+      Appointment: +8801747392273
   - name: 'Dr. Nurul Islam (ডক্টর নুরুল ইসলাম) '
     specialist: Nephrology
     location: Dhaka
