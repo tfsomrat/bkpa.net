@@ -33,7 +33,7 @@ contact_list:
     specialist: Nephrology
     location: Dhaka
     contact_details: |-
-      bn Sina Medical Imaging Center, Zigatola.
+      Ibn Sina Medical Imaging Center, Zigatola.
       House #58, Road 2#A, Dhaka. Appointment No-10615, +88 09610010615
   - name: Dr. Rezwanur Rahman
     specialist: Nephrology
