@@ -1,5 +1,5 @@
 ---
-title: 'Cold & Cough, Winter Precaution for Cold & Cough.'
+title: 'Cold & Cough, Winter Precaution.'
 date: 2021-08-01T06:00:00.000Z
 description: ''
 image: /images/12342-common-cold.jpg.jpg
