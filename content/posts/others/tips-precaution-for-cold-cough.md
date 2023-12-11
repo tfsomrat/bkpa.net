@@ -2,7 +2,7 @@
 title: 'Cold & Cough, Winter Precaution for Cold & Cough.'
 date: 2021-08-01T06:00:00.000Z
 description: ''
-image: /images/76920568_1174409329408815_8837591095006199808_n.jpg
+image: /images/12342-common-cold.jpg.jpg
 ---
 
 Precaution for Cold & Cough/ Winter
