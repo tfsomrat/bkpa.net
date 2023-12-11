@@ -37,7 +37,7 @@ Precaution for Cold & Cough/ Winter
 
 ★ হালকা গরম পানি খান।
 
-★এলার্জির কারণে হলে ডাক্তার এর পরামর্শে এন্টিহিস্টামিন যেমন:Loratadin/Fexofenadin/Montelukast খেতে পারেন।
+★এলার্জির কারণে হলে ডাক্তার এর পরামর্শে এন্টিহিস্টামিন যেমন: Loratadin/Fexofenadin/Montelukast etc খেতে পারেন।
 
 ★কফ তরলীকরণ ওষুধ চিকিৎসকের পরামর্শে খেতে পারেন।
 
