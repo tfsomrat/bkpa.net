@@ -4,13 +4,13 @@ banner:
     image: /images/dark-green-red-abstract-triangle-background-vector.jpg
     color: white
     content: ' বিকেপিএ (বাংলাদেশ কিডনি পেশেন্ট অ্যাসোসিয়েশন) একটি স্বেচ্ছাসেবী সামাজিক সংগঠন যার লক্ষ্য কিডনি রোগ প্রতিরোধের জন্য সামাজিক সচেতনতা বৃদ্ধি, তথ্য আদান-প্রদান, এবং কিডনি রোগ সম্পর্কে মানুষকে সতর্ক করা।'
-  - title: BKPA
+  - title: 'BKPA FOUNDATION - BANGLADESH KIDNEY PATIENT FOUNDATION '
     image: /images/banner-kidney.jpg
     color: white
     content: >-
-      Bangladesh Kidney Patient Association (BKPA) is a Non-profit Charitable
-      Association, formed in April 2015 to build community engagement for the
-      prevention of Kidney Disease through social awareness, sharing
+      BKPA FOUNDATION - BANGLADESH KIDNEY PATIENT FOUNDATION is a Non-profit
+      Charitable Association, formed in April 2015 to build community engagement
+      for the prevention of Kidney Disease through social awareness, sharing
       information, volunteerism and advocacy.
   - title: আপনি জানেন কি ?
     image: /images/banner-bkpa.jpeg
