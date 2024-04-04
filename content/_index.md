@@ -8,7 +8,7 @@ banner:
     image: /images/banner-kidney.jpg
     color: white
     content: >-
-      BKPA Foundation  is a Non-profit Charitable Association, formed in April
+      BKPA Foundation is a Non-profit Charitable Association, formed in April
       2015 to build community engagement for the prevention of Kidney Disease
       through social awareness, sharing information, volunteerism and advocacy.
   - title: আপনি জানেন কি ?
