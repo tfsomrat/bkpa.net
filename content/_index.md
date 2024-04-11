@@ -7,13 +7,13 @@ banner:
       বাংলাদেশ কিডনি পেশেন্ট ফাউন্ডেশন(BKPA FOUNDATION) একটি স্বেচ্ছাসেবী
       সামাজিক সংগঠন যার লক্ষ্য কিডনি রোগ প্রতিরোধের জন্য সামাজিক সচেতনতা বৃদ্ধি,
       তথ্য আদান-প্রদান, এবং কিডনি রোগ সম্পর্কে মানুষকে সতর্ক করা।
-  - title: 'BKPA '
+  - title: 'BKPA FOUNDATION '
     image: /images/banner-kidney.jpg
     color: white
     content: >-
-      BKPA is a Non-profit Charitable Association, formed in April 2015 to build
-      community engagement for the prevention of Kidney Disease through social
-      awareness, sharing information, volunteerism and advocacy.
+      BKPA Foundation is a Non-profit Charitable Association, formed in April
+      2015 to build community engagement for the prevention of Kidney Disease
+      through social awareness, sharing information, volunteerism and advocacy.
   - title: আপনি জানেন কি ?
     image: /images/banner-bkpa.jpeg
     color: white
