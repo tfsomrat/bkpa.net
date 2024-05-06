@@ -6,6 +6,7 @@ banner:
     image: >-
       https://assets.tina.io/ab6660d0-da2f-486a-ba38-40c4dc39e58c/WhatsApp Image
       2024-04-29 at 9.20.34 AM (1).jpeg
+    color: white
     content: >-
       BKPA Foundation and Dhanmondi Kidney General Hospital Ltd has signed a MOU
       by which members of BKPA Foundation can avail upto 35% discount in both
