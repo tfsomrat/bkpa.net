@@ -9,8 +9,8 @@ banner:
     color: white
     content: >-
       BKPA Foundation and Dhanmondi Kidney General Hospital Ltd has signed a MOU
-      by which members of BKPA Foundation can avail upto 35% discount in both
-      IPD and OPD services.
+      by which members of BKPA Foundation can avail discount in both IPD and OPD
+      services from DKGHL.
   - title: 'বিকেপিএ ফাউন্ডেশন '
     image: /images/dark-green-red-abstract-triangle-background-vector.jpg
     color: white
