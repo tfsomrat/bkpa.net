@@ -2,7 +2,7 @@
 title: >-
   ২৪ ঘণ্টা ইউরিন প্রোটিন টেস্ট (24 Hours Urine Protein test) এর প্রয়োজনীয়তা ও
   টেস্টের নিয়মাবলী
-date: '2022-03-05T18:00:00.000Z'
+date: 2022-03-05T18:00:00.000Z
 description: ''
 image: /images/161335273_10225246352529061_4741228291592592703_n.jpeg
 ---
@@ -17,29 +17,29 @@ image: /images/161335273_10225246352529061_4741228291592592703_n.jpeg
 
 তাই যারা কিডনি রোগে আক্রান্ত বিশেষ করে যারা ক্রনিক কিডনি রোগ এবং কিডনি ট্রান্সপ্ল্যান্ট করেছেন তাদের প্রথম থেকে অন্তত ৩ মাস অথবা ৬ মাস পর পর 24 Hours Urine Protein test টা করা উচিৎ।
 
-আমাদের দেশের ট্রান্সপ্ল্যান্ট সেন্টার গুলো এবং পার্শ্ববর্তী দেশের অনেক কিডনি সেন্টার গুলোতেও কেন জানি ডাক্তাররা এই 24 Hours Urine Protein test টি তাদের মাসিক ফলোআপ এ রাখেন না। **_কিন্তু অত্যন্ত দুঃখজনক ভাবে দেখা যাচ্ছে যে আমাদের দেশের বেশিরভাগ কিডনি ট্রান্সপ্ল্যান্ট ভাই ও বোনদের কিডনি ট্রান্সপ্ল্যান্ট এর পর এই প্রোটিন যাওয়ার কারনেই অনেক তাড়াতাড়ি কিডনি বিকল হয়ে যাচ্ছে। কিন্তু প্রাথমিক ভাবে প্রতি ৩ মাস বা ৬ মাস পর পর যদি 24 Hours Urine Protein test টা করা হয় তাহলে অনেক তাড়াতাড়ি প্রোটিনইউরিয়া মেডিসিন খেয়ে কন্ট্রোল করা যায় ।_**
+আমাদের দেশের ট্রান্সপ্ল্যান্ট সেন্টার গুলো এবং পার্শ্ববর্তী দেশের অনেক কিডনি সেন্টার গুলোতেও কেন জানি ডাক্তাররা এই 24 Hours Urine Protein test টি তাদের মাসিক ফলোআপ এ রাখেন না। ***কিন্তু অত্যন্ত দুঃখজনক ভাবে দেখা যাচ্ছে যে আমাদের দেশের বেশিরভাগ কিডনি ট্রান্সপ্ল্যান্ট ভাই ও বোনদের কিডনি ট্রান্সপ্ল্যান্ট এর পর এই প্রোটিন যাওয়ার কারনেই অনেক তাড়াতাড়ি কিডনি বিকল হয়ে যাচ্ছে। কিন্তু প্রাথমিক ভাবে প্রতি ৩ মাস বা ৬ মাস পর পর যদি 24 Hours Urine Protein test টা করা হয় তাহলে অনেক তাড়াতাড়ি প্রোটিনইউরিয়া মেডিসিন খেয়ে কন্ট্রোল করা যায় ।***
 
-#### 
+####
 
-#### **_TOPICS :- PROTEINUREA সম্পকে বিস্তারিত জানতে_** **_এই পোস্টটি পড়ুন।_**
+#### ***TOPICS :- PROTEINUREA সম্পকে বিস্তারিত জানতে*** ***এই পোস্টটি পড়ুন।***
 
-> [**Proteinurea/Chronic Kidney Disease(CKD)**](https://bkpa.net/proteinurea-ckd/ "Proteinurea/Chronic Kidney Disease(CKD)")
+> **[Proteinurea/Chronic Kidney Disease(CKD)](https://bkpa.net/proteinurea-ckd/ "Proteinurea/Chronic Kidney Disease(CKD)")**
 
 **➤ কাদের ২৪ ঘণ্টা ইউরিন প্রোটিন টেস্ট টা করা জরুরি ???**
 
-**![☠](https://static.xx.fbcdn.net/images/emoji.php/v9/t2c/2/16/2620.png =16x16) Diabetic nephropathy** - যাদের অনিয়ন্ত্রিত ডাইবেটিক্স রেয়েছে।
+**☠ Diabetic nephropathy** - যাদের অনিয়ন্ত্রিত ডাইবেটিক্স রেয়েছে।
 
-অনেক সময় কিডনি ট্রান্সপ্ল্যান্ট করার পর পরই ইমুনুসাপ্রেসিভ ওষুধ খাওয়ার ফলে সুগার লেভেল বেড়ে যায় ( বিস্তারিত পড়ুন , 
+অনেক সময় কিডনি ট্রান্সপ্ল্যান্ট করার পর পরই ইমুনুসাপ্রেসিভ ওষুধ খাওয়ার ফলে সুগার লেভেল বেড়ে যায় ( বিস্তারিত পড়ুন ,
 
-> [**New On Set Diabetes After Transplant (NODAT)**](https://bkpa.net/new-on-set-diabetes-after-transplant-nodat/ "New On Set Diabetes After Transplant (NODAT)") 
+> **[New On Set Diabetes After Transplant (NODAT)](https://bkpa.net/new-on-set-diabetes-after-transplant-nodat/ "New On Set Diabetes After Transplant (NODAT)")**
 
 ফলে প্রস্রাবের সাথে অনেক বেশি পরিমান প্রোটিন নিগ্রত হতে থাকে এবং খুব দ্রুত ট্রান্সপ্ল্যান্ট করা কিডনি বিকল হতে থাকে। তাই এখন থেকে কায়িক পরিশ্রম বারায় দিন এবং প্রতি ৬ মাস পর পর একবার করে HBA1C test টি করে আপনার সুগার লেভেলের আসল পরিমাপ দেখে নিন।
 
-**![☠](https://static.xx.fbcdn.net/images/emoji.php/v9/t2c/2/16/2620.png =16x16) High blood pressure.** - অস্বাভাবিক উচ্চ রক্তচাপ স্থায়ীভাবে কিডনি ক্ষতি করতে থাকে। উচ্চ রক্তচাপ নিয়ন্ত্রন করা অতি জরুরি।
+**☠ High blood pressure.** - অস্বাভাবিক উচ্চ রক্তচাপ স্থায়ীভাবে কিডনি ক্ষতি করতে থাকে। উচ্চ রক্তচাপ নিয়ন্ত্রন করা অতি জরুরি।
 
-**![☠](https://static.xx.fbcdn.net/images/emoji.php/v9/t2c/2/16/2620.png =16x16) Lupus nephritis** – লুপাস একটি অটোইমিউন রোগ যেখানে নিজের শরীরেরে রোগ প্রতিরোধ ব্যবস্থা উল্টা নিজের কিডনীতে আক্রমণ করে এবং তাদের ক্ষতি করে।তাই যারা এ রোগে আক্রান্ত্র তাদের অবশই প্রোটিন ইউরিয়া চেক করা উচিৎ।
+**☠ Lupus nephritis** – লুপাস একটি অটোইমিউন রোগ যেখানে নিজের শরীরেরে রোগ প্রতিরোধ ব্যবস্থা উল্টা নিজের কিডনীতে আক্রমণ করে এবং তাদের ক্ষতি করে।তাই যারা এ রোগে আক্রান্ত্র তাদের অবশই প্রোটিন ইউরিয়া চেক করা উচিৎ।
 
-![☠](https://static.xx.fbcdn.net/images/emoji.php/v9/t2c/2/16/2620.png =16x16) **এছাড়াও যাদের ঘন ঘন ইরিন ইনফেকশন (urinary tract infections – UTI )** বিশেষ করে নারীদের এবং যারা **Nephrotic syndrome ( কিডনি রোগ) যেমন হাত মুখ ফুলে গেলে অথবা ইউরিনে ফেনা হলে** , **Polycystic kidney disease (এক প্রকার সিসট যা কিডনি তে তরল পদার্থ হিসেবে জমে কিডনির সাইজ কে বড় করে তুলে এবং কিডনি টিস্যুকে নষ্ট করতে থাকে)** ভুগতেসেন তাদের অবশই অবশ্যই প্রতি ৩ মাস অথবা ৬ মাস পর পর 24 Hours Urine Protein test টা করা জরুরি।
+**☠** **এছাড়াও যাদের ঘন ঘন ইরিন ইনফেকশন (urinary tract infections – UTI )** বিশেষ করে নারীদের এবং যারা **Nephrotic syndrome ( কিডনি রোগ) যেমন হাত মুখ ফুলে গেলে অথবা ইউরিনে ফেনা হলে** , **Polycystic kidney disease (এক প্রকার সিসট যা কিডনি তে তরল পদার্থ হিসেবে জমে কিডনির সাইজ কে বড় করে তুলে এবং কিডনি টিস্যুকে নষ্ট করতে থাকে)** ভুগতেসেন তাদের অবশই অবশ্যই প্রতি ৩ মাস অথবা ৬ মাস পর পর 24 Hours Urine Protein test টা করা জরুরি।
 
 **➤24 Hours Urine Protein test কই করবেন ???**
 
@@ -55,11 +55,11 @@ image: /images/161335273_10225246352529061_4741228291592592703_n.jpeg
 
 এখন ইউরিন কালেক্ট করা নিয়ম হলো ধরুন আপনি সকাল ৭ টা থেকে ইউরিন কালেক্ট করতে চান। তাহলে সকাল ৭ টায় আপনি টয়লেট এ গিয়ে **প্রথম** ইউরিন টা ফেলে দিবেন। এর পর থেকে সকাল ৭ টা থেকে পরবর্তী দিনের ৭ টা পর্যন্ত যত ইউরিন আসবে সব (টোটাল ২৪ ঘণ্টা ) টা অই পাত্রে সংগ্রহ করতে হবে। কোন প্রকার ইউরিন বাহিরে ফেলবেন না। এবং **খেয়াল রাখবেন প্রথম ইউরিন টা বাহিরে ফেলে দিয়ে এর পর থেকে ২৪ ঘণ্টা কাউননট করবেন।**
 
-**বিস্তারিত -** [**https://www.hopkinsmedicine.org/.../24hour-urine-collection**](https://www.hopkinsmedicine.org/.../24hour-urine-collection "https://www.hopkinsmedicine.org/.../24hour-urine-collection")
+**বিস্তারিত -** [https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/24hour-urine-collection#:\~:text=A%2024%2Dhour%20urine%20collection%20helps%20diagnose%20kidney%20problems.,minerals%2C%20and%20other%20chemical%20compounds.](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/24hour-urine-collection#:~:text=A%2024%2Dhour%20urine%20collection%20helps%20diagnose%20kidney%20problems.,minerals%2C%20and%20other%20chemical%20compounds.)
 
-**_ICDDR,B তে টেস্ট করার নিয়ম-_**
+***ICDDR,B তে টেস্ট করার নিয়ম-***
 
-> [**Urine Protein Test**](https://bkpa.net/urine-protein-test/ "Urine Protein Test")
+> **[Urine Protein Test](https://bkpa.net/urine-protein-test/ "Urine Protein Test")**
 
 **➤24 Hours Urine Protein test সতর্কতা –**
 
@@ -89,8 +89,8 @@ image: /images/161335273_10225246352529061_4741228291592592703_n.jpeg
 
 ##### **Caution:**
 
-> ###### **BKPA is a voluntary social organization whose mission is to raise awareness, promote and share knowledge about kidney disease. BKPA does not provide any kind of medical advice directly or indirectly through social media or any other platform which should only be done by the nephrologist or registered doctor. This is prohibited to take any kind of medical treatment based on the information provided by BKPA.**
+> **BKPA is a voluntary social organization whose mission is to raise awareness, promote and share knowledge about kidney disease. BKPA does not provide any kind of medical advice directly or indirectly through social media or any other platform which should only be done by the nephrologist or registered doctor. This is prohibited to take any kind of medical treatment based on the information provided by BKPA.**
 
 ##### **সতর্কতাঃ**
 
-> ###### **বিকেপিএ একটি স্বেচ্ছাসেবী সামাজিক সংগঠন যার লক্ষ্য কিডনি রোগ সম্পর্কে সামাজিক সচেতনতা বৃদ্ধি,প্রচার এবং সতর্ক করা। বিকেপিএতে সামাজিক মাধ্যম অথবা অন্য কোন মাধ্যম ব্যবহার করে বা সরাসরি প্রত্যক্ষ / পরোক্ষভাবে কোনো প্রকার চিকিৎসা সংক্রান্ত সেবা বা পরামর্শ প্রদান করা হয় না যা শুধুমাত্র আপনার নেফ্রোলজিস্ট এবং রেজিস্টার্ড চিকিৎসকের এখতিয়ার।বিকেপিএ প্রদত্ত তথ্যের উপর ভিত্তি করে কোন প্রকার চিকিৎসা গ্রহণ নিষিদ্ধ।**
+> **বিকেপিএ একটি স্বেচ্ছাসেবী সামাজিক সংগঠন যার লক্ষ্য কিডনি রোগ সম্পর্কে সামাজিক সচেতনতা বৃদ্ধি,প্রচার এবং সতর্ক করা। বিকেপিএতে সামাজিক মাধ্যম অথবা অন্য কোন মাধ্যম ব্যবহার করে বা সরাসরি প্রত্যক্ষ / পরোক্ষভাবে কোনো প্রকার চিকিৎসা সংক্রান্ত সেবা বা পরামর্শ প্রদান করা হয় না যা শুধুমাত্র আপনার নেফ্রোলজিস্ট এবং রেজিস্টার্ড চিকিৎসকের এখতিয়ার।বিকেপিএ প্রদত্ত তথ্যের উপর ভিত্তি করে কোন প্রকার চিকিৎসা গ্রহণ নিষিদ্ধ।**
