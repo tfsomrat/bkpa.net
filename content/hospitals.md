@@ -5,7 +5,7 @@ layout: contact-list
 contact_list:
   - name: 'Parkview Hospital, Chittagong'
     specialist: Hospital
-    location: Chittagong
+    location: 'Chittagong '
     contact_details: |-
       4/103, Katalgonj Road পাচঁলাইশ, 4000
       https://parkview.com.bd/
