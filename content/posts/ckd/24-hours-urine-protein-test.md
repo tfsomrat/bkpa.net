@@ -55,7 +55,7 @@ image: /images/161335273_10225246352529061_4741228291592592703_n.jpeg
 
 এখন ইউরিন কালেক্ট করা নিয়ম হলো ধরুন আপনি সকাল ৭ টা থেকে ইউরিন কালেক্ট করতে চান। তাহলে সকাল ৭ টায় আপনি টয়লেট এ গিয়ে **প্রথম** ইউরিন টা ফেলে দিবেন। এর পর থেকে সকাল ৭ টা থেকে পরবর্তী দিনের ৭ টা পর্যন্ত যত ইউরিন আসবে সব (টোটাল ২৪ ঘণ্টা ) টা অই পাত্রে সংগ্রহ করতে হবে। কোন প্রকার ইউরিন বাহিরে ফেলবেন না। এবং **খেয়াল রাখবেন প্রথম ইউরিন টা বাহিরে ফেলে দিয়ে এর পর থেকে ২৪ ঘণ্টা কাউননট করবেন।**
 
-**বিস্তারিত -** [https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/24hour-urine-collection#:\~:text=A%2024%2Dhour%20urine%20collection%20helps%20diagnose%20kidney%20problems.,minerals%2C%20and%20other%20chemical%20compounds.](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/24hour-urine-collection#:~:text=A%2024%2Dhour%20urine%20collection%20helps%20diagnose%20kidney%20problems.,minerals%2C%20and%20other%20chemical%20compounds.)
+**বিস্তারিত -** [Why might I need a 24-hour urine collection?](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/24hour-urine-collection#:~:text=A%2024%2Dhour%20urine%20collection%20helps%20diagnose%20kidney%20problems.,minerals%2C%20and%20other%20chemical%20compounds. "Why might I need a 24-hour urine collection?")
 
 ***ICDDR,B তে টেস্ট করার নিয়ম-***
 
