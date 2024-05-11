@@ -7,7 +7,7 @@
     "root": "content"
   },
   "themeConfig": [
-    "config"
+    "config/_default"
   ],
   "arrangement": {}
 }
