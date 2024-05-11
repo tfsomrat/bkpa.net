@@ -1,0 +1,13 @@
+{
+  "media": {
+    "root": "static/images",
+    "public": "static"
+  },
+  "content": {
+    "root": "content"
+  },
+  "themeConfig": [
+    "config"
+  ],
+  "arrangement": {}
+}
