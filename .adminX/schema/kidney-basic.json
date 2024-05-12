@@ -1,0 +1,33 @@
+{
+  "file": "content/posts/kidney-basic/golden-rules-to-keep-your-kidneys-healthy.md",
+  "name": "kidney-basic",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Date",
+      "name": "date",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Description",
+      "name": "description",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Image",
+      "name": "image",
+      "type": "media",
+      "value": ""
+    },
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": "",
+      "isRequired": true
+    }
+  ]
+}
