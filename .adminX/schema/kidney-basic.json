@@ -7,7 +7,7 @@
     {
       "label": "Date",
       "name": "date",
-      "type": "string",
+      "type": "Date",
       "value": ""
     },
     {
