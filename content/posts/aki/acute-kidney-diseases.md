@@ -1,6 +1,6 @@
 ---
 title: Acute Kidney Diseases
-date: '2022-03-01T18:00:00.000Z'
+date: 2025-10-16T18:00:00.000Z
 description: ''
 image: /images/aki.jpg
 draft: false
