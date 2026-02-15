@@ -1,14 +1,10 @@
 {
-  "media": {
-    "root": "static/images",
-    "public": "static/"
-  },
-  "content": {
-    "root": "content"
-  },
-  "themeConfig": [
+  "media": "static/images",
+  "content": "content",
+  "arrangement": [],
+  "public": "static",
+  "configs": [
     "config.toml"
   ],
-  "arrangement": [],
-  "showCommitModal": false
+  "customCommit": false
 }
