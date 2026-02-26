@@ -1,10 +1,9 @@
 {
   "media": "static/images",
   "content": "content",
-  "arrangement": [],
-  "public": "static",
   "configs": [
     "config.toml"
   ],
-  "customCommit": false
+  "arrangement": [],
+  "custom-commit": true
 }
